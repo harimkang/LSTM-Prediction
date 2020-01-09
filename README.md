@@ -5,6 +5,7 @@ Writer : Harim Kang
 # Organized Blog
 
 'Read Me' posting in Korean is located at the address below.
+
 [https://davinci-ai.tistory.com/11](https://davinci-ai.tistory.com/11)
 
 # Project subject
